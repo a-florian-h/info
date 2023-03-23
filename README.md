@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @upsyl
+- 👋 Hi,
 - 👀 I’m interested in solving problems through systems
 - 🌱 I’m currently learning development in general
 - 💞️ I’m looking to collaborate on ... 
